@@ -11,13 +11,15 @@ public class array {
         String[][] arr2;
         arr2 = new String[2][2];
 
-        arr2[0][0] = "山田";
+        arr2[0][0] = "斉藤";
         arr2[0][1] = "根本";
         arr2[1][0] = "岸田";
+        arr2[1][1] = "山崎";
 
         System.out.println(arr2[0][0]);
         System.out.println(arr2[0][1]);
         System.out.println(arr2[1][0]);
+        System.out.println(arr2[1][1]);
     }
     
 }

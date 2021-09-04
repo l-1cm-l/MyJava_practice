@@ -10,5 +10,11 @@ public class kurasu {
         Student a0001 = new Student();
         a0001.name = "sato";
         System.out.println(a0001.name);
+        a0001.calculateAvg(90,80);
+
+        Student a0002 = new Student();
+        a0002.name = "suzuki";
+        System.out.println(a0002.name);
+        a0002.calculateAvg(80,89);
     }
 }

@@ -20,6 +20,11 @@ public class array {
         System.out.println(arr2[0][1]);
         System.out.println(arr2[1][0]);
         System.out.println(arr2[1][1]);
+
+        String[][] arr3 ={{"高橋","ヤマダ"},{"正弘","電機"}};
+
+        System.out.println(arr3[0][1]);
+        System.out.println(arr3[1][1]);
     }
     
 }

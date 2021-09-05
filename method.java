@@ -10,3 +10,10 @@ static int sum(int i,int j){
     return sum;
     }   
 }
+
+class Hiretu{
+    public static void main(String args[]){
+        int arr[] = {1,2,3,4,5};
+        System.out.println(arr[2]);
+    }
+}

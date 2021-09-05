@@ -9,7 +9,7 @@ public class Test0905 {
             continue;
         }
         if(i+j == 8){
-            System.out.println("大当たり");
+            System.out.println("合計が8");
         }
         System.out.println(i+ "_" +j);
     }

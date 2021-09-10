@@ -16,5 +16,3 @@ public class practice1 {
         System.out.println(age);
     }   
 }
-
-

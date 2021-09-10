@@ -8,11 +8,11 @@ public class practice1 {
         age = rand.nextInt(50);
         
         if(age>20){
-            System.out.println("成人");
+            System.out.println("おとな");
         }else if(age == 20){
             System.out.println("ハタチ");
         }else{
-            System.out.println("未成年");
+            System.out.println("こども");
         }
         System.out.println(age);
     }

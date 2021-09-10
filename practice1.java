@@ -1,5 +1,6 @@
 import java.util.Random;
 
+
 public class practice1 {
     public static void main(String[] args){
         int age;

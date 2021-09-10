@@ -2,7 +2,9 @@ import java.util.Random;
 
 public class practice1 {
     public static void main(String[] args){
-        int age = 20;
+        int age;
+        Random rand = new Random();
+        age = rand.nextInt(50);
         
         if(age>20){
             System.out.println("成人");

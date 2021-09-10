@@ -1,6 +1,5 @@
 import java.util.Random;
 
-
 public class practice1 {
     public static void main(String[] args){
         int age;
@@ -15,8 +14,7 @@ public class practice1 {
             System.out.println("こども");
         }
         System.out.println(age);
-    }
-    
+    }   
 }
 
 

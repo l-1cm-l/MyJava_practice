@@ -8,4 +8,3 @@ public class method0911 {
         return calc;
     }
 }
-
